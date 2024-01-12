@@ -1,4 +1,4 @@
-João Marcos
-José
+João Marcos, joao@email.com
+José, jose@email.com
 Maria
 Pedro

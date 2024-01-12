@@ -1,8 +1,10 @@
 # Amigo Secreto
 
 ### Preparação
-Preencha a lista de participantes no arquivo `participants.txt`
- - ***OBS: Apenas um nome por linha***
+Preencha a lista de participantes no arquivo `participants.txt`. Adicione o email de cada participante à frente do nome, separando com vírgula.
+
+ - ***OBS: Apenas um nome / email por linha***
+ - *Exemplo:* `Pedro, pedro@email.com`
 
 ### Execução
 Execute o arquivo python `main.py`
