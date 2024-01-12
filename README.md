@@ -14,7 +14,14 @@ Preencha a lista de participantes no arquivo `participants.txt`. Adicione o emai
   - Ex: `EMAIL_FROM=emailamigosecreto@email.com`
  - A senha do email deve ser uma senha de aplicativo gerada no seu servidor de email (talvez seja necessário habilitar a verificação em duas etapas).
 
-## Execução
+## Sorteio
+### Pacotes
+Instale as dependências necessárias
+```bash
+pip install -r requirements.txt
+```
+
+### Execução
 Execute o arquivo python `main.py`
 
 ```bash
